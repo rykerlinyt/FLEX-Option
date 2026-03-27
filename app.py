@@ -78,9 +78,9 @@ PRODUCTS = {
 # 下拉選單對應字典
 MAPPINGS = {
    'products': {
-       'OMWP': 'OMWP - MSCI Taiwan Index Options (MSCI台灣指數選擇權)',
+       'OMWP': 'OMWP - MSCI Taiwan Index Options (MSCI世界指數選擇權)',
        'OESX': 'OESX - EURO STOXX 50 Index Options (歐洲藍籌50指數選擇權)',
-       'SPX': 'SPX - S&P 500 Index Options (客製化 PM 結算)',
+       'SPX': 'SPX - S&P 500 Index Options (SP 500選擇權客製化 PM 結算)',
        'SPY': 'SPY - SPDR S&P 500 ETF Options (SPY ETF 選擇權)',
        'TXO': 'TXO - Taiwan Index Options (台指選擇權)',
        'QQQ': 'QQQ - Invesco QQQ ETF Options (QQQ ETF 選擇權)'
